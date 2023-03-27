@@ -122,7 +122,7 @@ P.S. Функции вызывать не обязательно*/
 
     writeYourGenres();
 
-    console.log("Hello Practice 1");
+    console.log("Hello Practice 3");
     console.log(numberOfFilms);
    
     // console.log(personalMovieDB.movies.firstFilm);
